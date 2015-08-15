@@ -1,0 +1,6 @@
+{
+	"require" : {
+		"gentle/bitbucket-api" : "dev-master",
+		"knplabs/github-api" : "dev-master"
+	}
+}
